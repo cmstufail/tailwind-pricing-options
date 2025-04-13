@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": "$29/month",
+      "description": "Perfect for beginners looking to get started with fitness.",
+      "features": [
+        "Access to gym equipment during staffed hours",
+        "One free personal training session",
+        "Locker room & shower access",
+        "Group fitness class (1 per week)",
+        "Fitness assessment (1x)",
+        "Free Wi-Fi",
+        "Mobile app access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": "$49/month",
+      "description": "Great for regular gym-goers who want more flexibility and perks.",
+      "featured": true,
+      "features": [
+        "24/7 gym access",
+        "Unlimited group fitness classes",
+        "2 personal training sessions per month",
+        "Free guest pass (1 per month)",
+        "Nutrition consultation (1x)",
+        "Fitness assessment (bi-monthly)",
+        "Access to specialty classes (e.g. yoga, HIIT)",
+        "Mobile app + progress tracking"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": "$79/month",
+      "description": "All-inclusive plan for serious fitness enthusiasts.",
+      "features": [
+        "All Standard features",
+        "Unlimited personal training sessions",
+        "Sauna & recovery zone access",
+        "Priority booking for classes",
+        "Custom nutrition & workout plans",
+        "Monthly wellness consultation",
+        "Access to private training zones",
+        "Member rewards & discounts"
+      ]
+    }
+  ]
+  
